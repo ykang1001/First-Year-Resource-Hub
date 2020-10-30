@@ -2,3 +2,6 @@
 *.gem
 .sass-cache
 Gemfile.lock
+Gemfile
+jekyll-theme-prologue.gemspec
+jekyll-theme-prologue-0.3.2.gem
